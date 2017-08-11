@@ -44,6 +44,3 @@ finally you need 通过正则表达式去动态修改value<br>
             match="android:value=&quot;NEED VALUE&quot;"
             replace="android:value=&quot;${NEED VALUE}&quot;" />
 ```
-
-###By YaC-King&Email:ouacyou@gmail.com.
-![](https://github.com/ouacyou/Multi-channel-packaging--/blob/master/logo/my_logo.png)
